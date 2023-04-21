@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background_container {
+  background-color: #d47980;
+  height: 200vh;
+  background-size: cover;
+  padding: 5px;
+}
+
+.icon_container {
+  height: 35px;
+  border-radius: 30px;
+  width: 35px;
+  border: 3px solid #091d3d;
+  text-align: center;
+}
+
+.name {
+  color: #091d3d;
+  font-size: 9px;
+  font-family: "Roboto";
+  font-weight: 400;
+}
+
+.caroline_heading {
+  color: #091d3d;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.art_director {
+  color: #091d3d;
+  font-size: 9px;
+  font-family: "Roboto";
+  font-weight: 500;
+}
+
+.vl {
+  border-right: solid #091d3d;
+  height: 180px;
+  width: 2px;
+}
+
+.vl_1 {
+  border-right: solid #091d3d;
+  height: 190px;
+  width: 2px;
+}
+
+.list_style {
+  list-style-type: none;
+  padding-right: 5px;
+}
+
+.details {
+  color: #091d3d;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.horizontal_line {
+  background-color: #091d3d;
+  width: 100px;
+  height: 2px;
+  margin-left: 80px;
+}
+
+.work_details {
+  color: #091d3d;
+  font-size: 7px;
+  font-weight: bold;
+}
+
+.work_desc {
+  color: #091d3d;
+  font-size: 7px;
+  font-weight: 200;
+}
+
+.years {
+  color: #091d3d;
+  font-size: 7px;
+  font-weight: 400;
+}
+
+.award_heading {
+  color: #091d3d;
+  font-size: 7px;
+  font-weight: bold;
+}
+
+.award_desc {
+  color: #091d3d;
+  font-size: 8px;
+  font-weight: 500;
+}
+
+.icon_with_background_container {
+  height: 50px;
+  background-color: #091d3d;
+  border-radius: 40px;
+  width: 50px;
+  border: 3px solid #091d3d;
+  text-align: center;
+  padding: 5px;
+}
